@@ -1,7 +1,8 @@
 [![Header](https://github.com/BUYZQ/BUYZQ/blob/main/assets/logo.png)](http://t.me/buyzq)
 
-About me
+## I'm a flutter developer
 
-Languages and Tools
+## Languages and Tools
+
 
 Follow Me
